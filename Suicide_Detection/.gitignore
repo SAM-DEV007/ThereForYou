@@ -159,17 +159,18 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-Model/Datasets
+Model/Datasets/Raw
+Model/Datasets/Processed
 
-Model/Model_Train.py
+#Model/Model_Train.py
 Model/Model_Data/logs/backup.txt
 yolov8n.pt
 
-Model/rope-detection-640.ipynb
-Model/rope-detection-480.ipynb
+#Model/rope-detection-640.ipynb
+#Model/rope-detection-480.ipynb
 
-Model/Model_Data/logs/runs/detect/SuicideDetection/*
-Model/Model_Data/logs/runs/detect/SuicideDetection2/*
+#Model/Model_Data/logs/runs/detect/SuicideDetection/*
+#Model/Model_Data/logs/runs/detect/SuicideDetection2/*
 
-!Model/Model_Data/logs/runs/detect/SuicideDetection/weights
-!Model/Model_Data/logs/runs/detect/SuicideDetection2/weights
+#!Model/Model_Data/logs/runs/detect/SuicideDetection/weights
+#!Model/Model_Data/logs/runs/detect/SuicideDetection2/weights
